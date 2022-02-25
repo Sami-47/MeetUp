@@ -1,2 +1,2 @@
 # MeetUp
-A social media app using .net core MVC and postgreSql for Database
+A social media app using .net core MVC and mariaDB for Database
