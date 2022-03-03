@@ -547,5 +547,4 @@ D:\Users\awesa\Desktop\dotnet_journey\social_media_mvc_app\MeetUp\MeetUp\obj\Deb
 D:\Users\awesa\Desktop\dotnet_journey\social_media_mvc_app\MeetUp\MeetUp\obj\Debug\net6.0\ref\MeetUp.dll
 D:\Users\awesa\Desktop\dotnet_journey\social_media_mvc_app\MeetUp\MeetUp\obj\Debug\net6.0\MeetUp.pdb
 D:\Users\awesa\Desktop\dotnet_journey\social_media_mvc_app\MeetUp\MeetUp\obj\Debug\net6.0\MeetUp.genruntimeconfig.cache
-D:\Users\awesa\Desktop\dotnet_journey\social_media_mvc_app\MeetUp\MeetUp\bin\Debug\net6.0\BamButz.MSBuild.TailwindCSS.dll
 D:\Users\awesa\Desktop\dotnet_journey\social_media_mvc_app\MeetUp\MeetUp\obj\Debug\net6.0\MeetUp.csproj.AssemblyReference.cache
